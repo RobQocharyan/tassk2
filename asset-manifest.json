@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tassk2/static/css/main.e6c13ad2.css",
+    "main.js": "/tassk2/static/js/main.625ecb32.js",
+    "index.html": "/tassk2/index.html",
+    "main.e6c13ad2.css.map": "/tassk2/static/css/main.e6c13ad2.css.map",
+    "main.625ecb32.js.map": "/tassk2/static/js/main.625ecb32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.625ecb32.js"
+  ]
+}
